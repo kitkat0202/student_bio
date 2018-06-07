@@ -1,0 +1,38 @@
+body {
+    background-color: #efeee6;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+h1 {
+    color: #efeee6;
+    background-color: #000000;
+    text-align: center;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.me-pic {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+a {
+    color: #d21034;
+}
+
+.container {
+    width: 1024px;
+    margin: 0px;
+}
+
+#main-bio,
+#contact-info,
+.me-pic {
+    float: left;
+}
