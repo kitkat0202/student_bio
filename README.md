@@ -1,4 +1,4 @@
-##*Student Bio*
+##Student Bio
 
 This is an example of HTML and CSS only student bio.
 ---
